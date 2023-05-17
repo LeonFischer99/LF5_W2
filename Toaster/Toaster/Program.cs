@@ -19,6 +19,7 @@ namespace LF5_LW3_MyFlyingToaster
             t2.Toastzeit = 17;
             t2.ToastReintun(3);
             t2.Toasten();
+            Console.WriteLine(t2.ToString());
 
 
         }
