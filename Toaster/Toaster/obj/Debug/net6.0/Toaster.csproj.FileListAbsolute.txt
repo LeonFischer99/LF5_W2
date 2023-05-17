@@ -1,0 +1,15 @@
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\bin\Debug\net6.0\Toaster.exe
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\bin\Debug\net6.0\Toaster.deps.json
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\bin\Debug\net6.0\Toaster.runtimeconfig.json
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\bin\Debug\net6.0\Toaster.dll
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\bin\Debug\net6.0\Toaster.pdb
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.csproj.AssemblyReference.cache
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.AssemblyInfoInputs.cache
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.AssemblyInfo.cs
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.dll
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\refint\Toaster.dll
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.pdb
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\Toaster.genruntimeconfig.cache
+C:\Users\Leon\Documents\GitHub\LF5_W2\Toaster\Toaster\obj\Debug\net6.0\ref\Toaster.dll
