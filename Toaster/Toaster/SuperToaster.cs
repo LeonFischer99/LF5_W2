@@ -27,17 +27,20 @@ namespace LF5_LW3_MyFlyingToaster
                 }
             }
         }
-        public SuperToaster(Color farbe, byte schaechte, int toastzeit) : base(farbe, schaechte, toastzeit) 
+        public SuperToaster(Color farbe, byte schaechte, int toastzeit) 
+            : base(farbe, schaechte, toastzeit) 
         {
             this.Temperatur = 20;
         }
 
-        public SuperToaster(Color farbe, byte schaechte, int toastzeit, byte toastAnzahl) : base(farbe, schaechte, toastzeit, toastAnzahl)
+        public SuperToaster(Color farbe, byte schaechte, int toastzeit, byte toastAnzahl) 
+            : base(farbe, schaechte, toastzeit, toastAnzahl)
         {
             this.Temperatur = 20;
         }
 
-        public SuperToaster(Color farbe, byte schaechte) : base(farbe, schaechte) 
+        public SuperToaster(Color farbe, byte schaechte) 
+            : base(farbe, schaechte) 
         {
             this.Temperatur = 20;
         }

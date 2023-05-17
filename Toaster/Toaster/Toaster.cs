@@ -7,10 +7,10 @@ namespace LF5_LW3_MyFlyingToaster
     {
         #region Properties
         private Color _Farbe;
-        public Color Farbe { get; set; }
+        public Color Farbe { get; }
 
         public byte _Schaechte;
-        public byte Schaechte { get; set; }
+        public byte Schaechte { get; }
 
         private int _Toastzeit;
         public int Toastzeit { get; set; }
@@ -93,7 +93,7 @@ namespace LF5_LW3_MyFlyingToaster
             }
         }
 
-        public byte? ToastAuswerfen()
+        public byte ToastAuswerfen()
         {
             var temp = this.ToastAnzahl;
             this.ToastAnzahl = 0;
